@@ -6,7 +6,7 @@ An interactive **Machine Learning web application** that predicts diabetes risk 
 
 Once deployed, add your Streamlit application URL here:
 
-**Live App:** `https://diabetes-risk-predictor-lr.streamlit.app/)`
+**Live App:** `https://diabetes-risk-predictor-lr.streamlit.app`
 
 ---
 
